@@ -1,4 +1,5 @@
 # hunt3r
+hunt3r is a tool that perform automated tasks for you on online.
 Happy hunting (:
 
 ## Installation
