@@ -1,6 +1,6 @@
 # hunt3r
-hunt3r is a tool that perform automated tasks for you on online.
-Happy hunting (:
+hunt3r is a tool that perform automated tasks for you on online and take actions on your behalf.
+ Happy hunting (:
 
 ## Installation
 
